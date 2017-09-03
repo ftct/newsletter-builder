@@ -1,0 +1,10 @@
+Instalation
+===========
+
+Download composer from: <https://getcomposer.org/download/>
+
+`wget https://getcomposer.org/composer.phar`
+
+Install dependencies:
+
+`php composer.phar install`

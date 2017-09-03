@@ -1,0 +1,12 @@
+For converting between markdown language and html pandoc is used.
+
+<http://pandoc.org/> a universal document converter.
+
+Instalation instruction: <http://pandoc.org/installing.html>
+
+- Macos: `brew install pandoc`
+- Linux: `apt-get install pandoc`
+
+Execution example:
+
+`pandoc -s --section-divs  --css css_file_path.css -o output_file_path.html input_file_path.md`
