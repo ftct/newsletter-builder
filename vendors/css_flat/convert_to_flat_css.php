@@ -29,10 +29,10 @@ function validateParametersCount($parameters)
 {
     if (count($parameters) != 4) {
         echo "Wrong number of parameters.
-        Usage: convert_to_flat_css.php path.html path.css
-          - path.html - path to file with html
+        Usage: convert_to_flat_css.php input_path.html path.css output_path.html
+          - input_path.html - path to file with html
           - path.css - path to css file
-          - output.html - path and name where to save output file
+          - output_path.html - path to file where to save output file
     ";
         exit(1);
     }
