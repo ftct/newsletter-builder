@@ -9,10 +9,13 @@ Newsletter builder is collection of simple scripts which preparing html ready to
 Instalation
 ===========
 
-# Install pandoc (a universal document converter) <https://pandoc.org/installing.html>
+# Install pandoc (a universal document converter) 
 
 - Macos: `brew install pandoc`
 - Linux: `apt-get install pandoc`
+
+Documentation: <https://pandoc.org/installing.html>
+
 
 # Install ccs flat converter: (requirements - php >= 5.5 installed)
 
