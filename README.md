@@ -17,7 +17,9 @@ Instalation
 Documentation: <https://pandoc.org/installing.html>
 
 
-# Install ccs flat converter: (requirements - php >= 5.5 installed)
+# Install ccs flat converter:
+
+requirements: php >= 5.5 installed
 
 ```bash
   cd vendors/css_flat/
